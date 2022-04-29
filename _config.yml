@@ -1,2 +1,4 @@
 name: Chris Geissler
 markdown: kramdown
+
+theme: jekyll-theme-midnight
