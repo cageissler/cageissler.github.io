@@ -1,7 +1,7 @@
 name: Chris Geissler
 markdown: kramdown
-
 theme: jekyll-theme-midnight
+title: "Chris Geissler"
 
 layout: page
 title: "Research"
