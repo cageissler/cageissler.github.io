@@ -2,15 +2,16 @@ name: Chris Geissler
 markdown: kramdown
 theme: jekyll-theme-midnight
 title: "Chris Geissler"
+description: Phonetics, phonology, and teaching
 
-layout: page
-title: "Research"
-permalink: /research/
+#layout: page
+#title: "Research"
+#permalink: /research/
 
-layout: page
-title: "Teaching"
-permalink: /research/
+#layout: page
+#title: "Teaching"
+#permalink: /research/
 
-layout: page
-title: "Publications"
-permalink: /publications/
+#layout: page
+#title: "Publications"
+#permalink: /publications/
