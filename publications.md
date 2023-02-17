@@ -36,9 +36,17 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Other activity
 
-- “[Tone and Articulatory Timing: Evidence from Tibetan](https://github.com/cageissler/cageissler.github.io/blob/main/files/Geissler_Muenchen_29Jun2022.pdf).” Invited talk at Institute for Phonetics, Ludwig Maximilians University Münich. June 29, 2022
-- LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://github.com/cageissler/cageissler.github.io/blob/main/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. [(YouTube link)[https://www.youtube.com/watch?v=LFGeB1r3u9s]]
+- “[Tone and Articulatory Timing: Evidence from Tibetan](https://github.com/cageissler/cageissler.github.io/blob/main/files/Geissler_Muenchen_29Jun2022.pdf).” Invited talk at Institute for Phonetics, Ludwig Maximilians University Munich. June 29, 2022
+- LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://github.com/cageissler/cageissler.github.io/blob/main/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. (YouTube link)[https://www.youtube.com/watch?v=LFGeB1r3u9s]
 - Geissler, Christopher. 2021. [Articulatory Phonology: example studies](https://github.com/cageissler/cageissler.github.io/blob/main/files/Geissler_guest_1-29-2021.pdf). Invited guest lecture in Phonology II course (instructor: Emily Gasser), Swarthmore College. January 29, 2021.
 - Geissler, Christopher. 2020. [Review of Hill, Nathan W. 2019. The Historical Phonology of Tibetan,
 Burmese, and Chinese](https://github.com/cageissler/cageissler.github.io/blob/main/files/Geissler_2020_review_Hill.pdf). Cambridge University Press. Phonology 37(3), p. 495-500.
-- Babinski, Sarah & Christopher Geissler. 2020. Gender bias and stereotypes in linguistic example sentences. Talk given to Yale University Department of Linguistics. September 25, 2020. [slides]
+- Babinski, Sarah & Christopher Geissler. 2020. Gender bias and stereotypes in linguistic example sentences. Talk given to Yale University Department of Linguistics. September 25, 2020.
+
+## Navigate to my...
+
+- [Home](https://cageissler.github.io)
+- [Research](https://cageissler.github.io/research)
+- [Teaching](https://cageissler.github.io/teaching)
+- [CV](https://cageissler.github.io/files/Geissler_CV.pdf)
+- [Resources](https://cageissler.github.io/resources)

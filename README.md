@@ -1,12 +1,14 @@
 # Welcome!
 
 
-## Click here for my...
+## Navigate to my...
 
 - [Publications](https://cageissler.github.io/publications)
 - [Research](https://cageissler.github.io/research)
 - [Teaching](https://cageissler.github.io/teaching)
 - [CV](https://cageissler.github.io/files/Geissler_CV.pdf)
+- [Resources](https://cageissler.github.io/resources)
+
 
 ## About me
 
