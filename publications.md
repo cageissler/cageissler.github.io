@@ -1,5 +1,4 @@
 | [Home](https://cageissler.github.io) | [Research](https://cageissler.github.io/research) | [Teaching](https://cageissler.github.io/teaching) | [CV](https://cageissler.github.io/files/Geissler_CV.pdf) | [Resources](https://cageissler.github.io/resources) |
-|:---:|:---:|:---:|:---:|:---:|
 
 
 # Publications
