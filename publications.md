@@ -1,3 +1,7 @@
+| [Home](https://cageissler.github.io) | [Research](https://cageissler.github.io/research) | [Teaching](https://cageissler.github.io/teaching) | [CV](https://cageissler.github.io/files/Geissler_CV.pdf) | [Resources](https://cageissler.github.io/resources) |
+|:---:|:---:|:---:|:---:|:---:|
+
+
 # Publications
 
 
@@ -43,16 +47,3 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 - Geissler, Christopher. 2020. [Review of Hill, Nathan W. 2019. The Historical Phonology of Tibetan,
 Burmese, and Chinese](https://cageissler.github.io/files/Geissler_2020_review_Hill.pdf). Cambridge University Press. Phonology 37(3), p. 495-500.
 - Babinski, Sarah & Christopher Geissler. 2020. Gender bias and stereotypes in linguistic example sentences. Talk given to Yale University Department of Linguistics. September 25, 2020.
-
-## Navigate to my...
-
-- [Home](https://cageissler.github.io)
-- [Research](https://cageissler.github.io/research)
-- [Teaching](https://cageissler.github.io/teaching)
-- [CV](https://cageissler.github.io/files/Geissler_CV.pdf)
-- [Resources](https://cageissler.github.io/resources)
-
-
-
-| [Home](https://cageissler.github.io) | [Research](https://cageissler.github.io/research) | [Teaching](https://cageissler.github.io/teaching) | [CV](https://cageissler.github.io/files/Geissler_CV.pdf) | [Resources](https://cageissler.github.io/resources) |
-| *---* |  *---* |  *---* |  *---* |  *---* |
