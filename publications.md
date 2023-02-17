@@ -4,7 +4,7 @@
 ## Dissertation
 
 I defended my dissertation, *Temporal articulatory stability, phonological variation, and lexical contrast preservation in diaspora Tibetan*, on January 25, 2021.
-[dissertation defense slides](https://cageissler.github.io/files/Geissler_defense_slides.pdf)
+[dissertation defense slides](https://cageissler.github.io/files/Geissler_defense_sildes.pdf)
 [dissertation download](https://cageissler.github.io/files/Geissler_dissertation_April2021.pdf)
 
 
@@ -16,7 +16,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 - Geissler, Christopher. 2019. Tonal and laryngeal contrasts in Diaspora Tibetan(https://cageissler.github.io/files/). Proceedings of the 18th International Congress of Phonetic Sciences. Melbourne, Australia. [pdf]
 - Zhang, Muye, Christopher Geissler & Jason Shaw. 2019. Gestural representations of tone in Mandarin: Evidence from timing alternations(https://cageissler.github.io/files/). Proceedings of the 18th International Congress of Phonetic Sciences. Melbourne, Australia. [pdf]
 - DeMille, Mellissa MC, Kevin Tang, Chintan M. Mehta, Christopher Geissler, Jeffrey G. Malins, Natalie R. Powers, Beatrice M. Bowen, Andrew K. Adams, Dongnhu T. Truong & Jan C. Frijters. 2018. Worldwide distribution of the DCDC2 READ1 regulatory element and its relationship with phoneme variation across languages(https://cageissler.github.io/files/). Proceedings of the National Academy of Sciences 115(19). 4951–4956. [pdf]
-- Geissler, Christopher. 2018. [Phonological Koinéization in Kathmandu Tibetan](https://cageissler.github.io/files/Geissler- 2018 - Phonological Koineization in Kathmandu Tibetan.pdf). Proceedings of the Annual Meetings on Phonology, vol. 5.
+- Geissler, Christopher. 2018. [Phonological Koinéization in Kathmandu Tibetan](https://cageissler.github.io/files/Geissler%20-%202018%20-%20Phonological%20Koineization%20in%20Kathmandu%20Tibetan.pdf). Proceedings of the Annual Meetings on Phonology, vol. 5.
 
 # Conference Presentations
 
