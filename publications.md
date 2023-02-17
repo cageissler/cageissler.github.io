@@ -24,12 +24,12 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 - Geissler, Christopher. 2022. [From gestural landmarks to analysis-by-synthesis: tone-driven timing in Diaspora Tibetan](https://cageissler.github.io/files/PP_2022_paper_1442.pdf). Poster presented at 18th Phonetik und Phonologie im deutschsprachigen Raum, Bielefeld, Germany.
 - Geissler, Christopher. 2021. “[Backward-designing a graduate phonology seminar](https://cageissler.github.io/files/Geissler%20-%20Backward-designing%20a%20graduate%20phonology%20seminar.pdf)” Poster presented at Workshop on Teaching Phonology, Annual Meeting on Phonology 2021.
 - Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2020. [Eccentric C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts.](https://github.com/cageissler/cageissler.github.io/raw/main/files/Geissler_170_Poster.pdf) 12th International Seminar on Speech Production. [video presentation](https://github.com/cageissler/cageissler.github.io/raw/main/files/Geissler_170_Tour.mp4).
-- Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2020. [Consistent C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts](https://cageissler.github.io/files/Geissler_et_al_LSA_as_presented.pdf). 94th Annual Meeting of the Linguistic Society of America. [abstract]((https://cageissler.github.io/files/LSA2020_abstract_EMA.pdf))
+- Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2020. [Consistent C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts](https://cageissler.github.io/files/Geissler_et_al_LSA_as_presented.pdf). 94th Annual Meeting of the Linguistic Society of America. [abstract](https://cageissler.github.io/files/LSA2020_abstract_EMA.pdf)
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2020. [Gender bias in linguistic example sentences](https://cageissler.github.io/files/LSA2020-gender-journals.pdf). 94th Annual Meeting of the Linguistic Society of America.
 - Geissler, Christopher A. 2019. Phonetic timing and Tibetan consonant, vowel, and tone contrasts. Phonology of the Northeast 2019.
-- Geissler, Christopher A. 2018. (VOT in Tibetan is conditioned by tone)[https://asa.scitation.org/doi/abs/10.1121/1.5035746]. *The Journal of the Acoustical Society of America* 143(3). 1756–1756.
+- Geissler, Christopher A. 2018. [VOT in Tibetan is conditioned by tone](https://asa.scitation.org/doi/abs/10.1121/1.5035746). *The Journal of the Acoustical Society of America* 143(3). 1756–1756.
 - Geissler, Christopher. 2018. Deriving three surface VOT categories from a two-way phonological contrast in Tibetan. 26th Manchester Phonology Meeting.
-- Whalen, Doug H., Christian DiCanio, Christopher Geissler & Hannah King. 2016. (Acoustic realization of a distinctive, frequent glottal stop: The Arapaho example)[https://asa.scitation.org/doi/abs/10.1121/1.4950615]. *The Journal of the Acoustical Society of America* 139(4). 2212–2213. [abstract]
+- Whalen, Doug H., Christian DiCanio, Christopher Geissler & Hannah King. 2016. [Acoustic realization of a distinctive, frequent glottal stop: The Arapaho example](https://asa.scitation.org/doi/abs/10.1121/1.4950615). *The Journal of the Acoustical Society of America* 139(4). 2212–2213.
 - Geissler, Christopher. 2016. Semi-Creole Language Typology in Tibeto-Burman. 4th Himalayan Studies Conference. Austin, Texas.
 - Geissler, Christopher. 2016. Identifying semi-creoles in Tibeto-Burman. Society for Pidgin and Creole Linguistics. Washington, D.C.
 - Whalen, Doug H., Christian DiCanio, Christopher Geissler & Hannah King. 2016. Acoustic realization of a distinctive, frequent glottal stop: The Arapaho example. Society for the Study of the Indigenous Languages of the Americas. Washington, D.C.
@@ -38,7 +38,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 ## Other activity
 
 - “[Tone and Articulatory Timing: Evidence from Tibetan](https://cageissler.github.io/files/Geissler_Muenchen_29Jun2022.pdf).” Invited talk at Institute for Phonetics, Ludwig Maximilians University Munich. June 29, 2022
-- LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://cageissler.github.io/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. (YouTube link)[https://www.youtube.com/watch?v=LFGeB1r3u9s]
+- LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://cageissler.github.io/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. [YouTube link](https://www.youtube.com/watch?v=LFGeB1r3u9s)
 - Geissler, Christopher. 2021. [Articulatory Phonology: example studies](https://cageissler.github.io/files/Geissler_guest_1-29-2021.pdf). Invited guest lecture in Phonology II course (instructor: Emily Gasser), Swarthmore College. January 29, 2021.
 - Geissler, Christopher. 2020. [Review of Hill, Nathan W. 2019. The Historical Phonology of Tibetan,
 Burmese, and Chinese](https://cageissler.github.io/files/Geissler_2020_review_Hill.pdf). Cambridge University Press. Phonology 37(3), p. 495-500.
@@ -51,3 +51,8 @@ Burmese, and Chinese](https://cageissler.github.io/files/Geissler_2020_review_Hi
 - [Teaching](https://cageissler.github.io/teaching)
 - [CV](https://cageissler.github.io/files/Geissler_CV.pdf)
 - [Resources](https://cageissler.github.io/resources)
+
+
+
+| [Home](https://cageissler.github.io) | [Research](https://cageissler.github.io/research) | [Teaching](https://cageissler.github.io/teaching) | [CV](https://cageissler.github.io/files/Geissler_CV.pdf) | [Resources](https://cageissler.github.io/resources) |
+| *---* |  *---* |  *---* |  *---* |  *---* |
