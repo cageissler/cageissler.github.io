@@ -1,16 +1,7 @@
-# Welcome!
+| [About](https://cageissler.github.io) | [Publications](https://cageissler.github.io/publications) | [Research](https://cageissler.github.io/research) | [Teaching](https://cageissler.github.io/teaching) | [Resources](https://cageissler.github.io/resources) | [CV](https://cageissler.github.io/files/Geissler_CV.pdf) |
 
 
-## Navigate to my...
-
-- [Publications](https://cageissler.github.io/publications)
-- [Research](https://cageissler.github.io/research)
-- [Teaching](https://cageissler.github.io/teaching)
-- [CV](https://cageissler.github.io/files/Geissler_CV.pdf)
-- [Resources](https://cageissler.github.io/resources)
-
-
-## About me
+# About me
 
 I am a phonetician and phonologist currently serving as a postdoctoral researcher in English Language & Linguistics at Heinrich-Heine University in Düsseldorf, Germany ([English](https://www.anglistik3.hhu.de/en/), [German](https://www.anglistik3.hhu.de/)), as part of the [Speech, Language, and Modeling Lab](https://slam.phil.hhu.de/). In this role, I have been teaching courses in English Linguistics, applying for grants, setting up laboratory infrastructure, and researching the relationship between probabilistic reduction and articulatory phonetics.
 
@@ -23,7 +14,7 @@ Teaching is just as important to me as research. It is a great joy, and a great 
 
 
 
-Contact information:
+## Contact
 
 christopher[dot]geissler[at]hhu[dot]de
 
