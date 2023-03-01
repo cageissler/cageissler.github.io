@@ -5,7 +5,7 @@
 
 ## As Instructor of Record
 
-# At Heinrich-Heine Universität Düsseldorf:
+### At Heinrich Heine University Duesseldorf:
 
 - Introduction to English Linguistics, Part II. Summer 2023
 - Laboratory Phonology (advanced seminar). Summer 2023
@@ -16,16 +16,16 @@
 - Morphology/Word-Formation. (intermediate seminar). Winter 2021/2022
 - The Phonetics-Phonology Interface. (advanced seminar) Winter 2021/2022
 
-# At Yale University:
+### At Yale University:
 
 - Introduction to Linguistics. Yale Summer Session 2019.
 - Topics in Phonology: The Phonetics-Phonology Interface. Spring 2021
 
 ## As Teaching Assistant
 
-# At Yale University:
+### At Yale University:
 
-- Language and Mind. Fall 2020. Instructor: Maria Piñango
+- Language and Mind. Fall 2020. Instructor: Maria Piï¿½ango
 - Grammatical Diversity in U.S. English. Spring 2020. Instructor: Raffaella Zanuttini
 - Introduction to Linguistics, Fall 2019. Instructor: Jason Shaw
 - General Phonetics, Spring 2018. Instructor: Jonathan Manker
@@ -33,6 +33,6 @@
 - General Phonetics, Spring 2017. Instructor: Jason Shaw
 - Introduction to Phonological Analysis, Fall 2016. Instructor: Ryan Bennett
 
-Outside Linguistics
+## Outside Linguistics
 
 From Fall 2015 through Spring 2020, I taught weekly (or more) at the [Branford College Pottery Studio](https://branford.yalecollege.yale.edu/facilities/pottery-studio), serving as studio manager and a Graduate Affiliate of Branford College.
