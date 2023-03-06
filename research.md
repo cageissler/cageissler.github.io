@@ -5,7 +5,7 @@
 
 ## Representation at the Phonetics-Phonology Interface
 
-Depending on the day, I?m a phonetician whose work bears on phonology, or a phonologist who draws from phonetic data. Either way, I?m interested in how units of language are represented, especially at the sub-segmental level.
+Depending on the day, I'm a phonetician whose work bears on phonology, or a phonologist who draws from phonetic data. Either way, I'm interested in how units of language are represented, especially at the sub-segmental level.
 
 ### Articulatory Phonology
 
@@ -17,7 +17,7 @@ In collaboration with [Kevin Tang](https://www.kevintang.org/) and Eoin O'Reilly
 
 ### Electromagnetic Articulography (EMA)
 
-One of my favorite experimental techniques, EMA provides a high degree of spatial and temporal precision of the movement of specific fleshpoints in the vocal tract. I first encountered EMA at Haskins Laboratories, and I joined my advisor Jason Shaw in setting up the EMA system at Yale?s Phonetics Lab, where I now work. Along with colleagues from the Yale Phonetics Lab, I have also helped consult with the EMA setup at the University of Delaware. EMA data features prominently in my dissertation and related research, where I have primarily used it to quantify the relative timing of vocal gestures. See my Publications page for several publications and presentations using EMA.
+One of my favorite experimental techniques, EMA provides a high degree of spatial and temporal precision of the movement of specific fleshpoints in the vocal tract. I first encountered EMA at Haskins Laboratories, and I joined my advisor Jason Shaw in setting up the EMA system at Yale's Phonetics Lab, where I now work. Along with colleagues from the Yale Phonetics Lab, I have also helped consult with the EMA setup at the University of Delaware. EMA data features prominently in my dissertation and related research, where I have primarily used it to quantify the relative timing of vocal gestures. See my Publications page for several publications and presentations using EMA.
 
 ## Probabilistic Reduction
 
@@ -25,7 +25,7 @@ From [Kevin Tang](https://www.kevintang.org/) and [Anna Sophia Stein](https://an
 
 ## Language Change
 
-A full understanding of any phenomenon requires both synchronic and diachronic accounts?how does it work, and how did it get to be that way? I?m interested in the many factors that influence language change, as well as the pathways of change themselves. This includes Tibetan tonogenesis and its role in the system of contrasts in the language, as well as the formation of new dialects and change in diaspora. My review of The Historical Phonology of Tibetan, Burmese, and Chinese by Nathan W. Hill (2019, Cambridge University Press) was published in [Phonology](https://cageissler.github.io/files/Geissler_2020_review_Hill.pdf).
+A full understanding of any phenomenon requires both synchronic and diachronic accounts. How does it work, and how did it get to be that way? I'm interested in the many factors that influence language change, as well as the pathways of change themselves. This includes Tibetan tonogenesis and its role in the system of contrasts in the language, as well as the formation of new dialects and change in diaspora. My review of The Historical Phonology of Tibetan, Burmese, and Chinese by Nathan W. Hill (2019, Cambridge University Press) was published in [Phonology](https://cageissler.github.io/files/Geissler_2020_review_Hill.pdf).
 
 ## Tibetan and Himalayan Studies
 
@@ -37,4 +37,4 @@ While linguistics has come a long way in becoming an increasingly inclusive fiel
 
 ## Scholarly Teaching
 
-Linguists have developed a range of useful teaching methodologies, largely independent from the broader community of research on teaching in higher education. As a teacher, I am interested in pedagogy research and developing tools and best practices for teaching linguistics. To this end, I completed the Certificate of College Teaching Preparation at Yale?s Poorvu Center for Teaching and Learning, and I have joined the Scholarship of Teaching and Learning Special Interest Group of the Linguistic Society of America.
+Linguists have developed a range of useful teaching methodologies, largely independent from the broader community of research on teaching in higher education. As a teacher, I am interested in pedagogy research and developing tools and best practices for teaching linguistics. To this end, I completed the Certificate of College Teaching Preparation at Yale's Poorvu Center for Teaching and Learning, and I have joined the Scholarship of Teaching and Learning Special Interest Group of the Linguistic Society of America.
