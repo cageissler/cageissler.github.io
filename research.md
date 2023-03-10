@@ -3,6 +3,8 @@
 
 # Research
 
+ORCID: https://orcid.org/0000-0003-4910-3062
+
 ## Representation at the Phonetics-Phonology Interface
 
 Depending on the day, I'm a phonetician whose work bears on phonology, or a phonologist who draws from phonetic data. Either way, I'm interested in how units of language are represented, especially at the sub-segmental level.

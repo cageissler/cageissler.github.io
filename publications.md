@@ -24,6 +24,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Conference Presentations
 
+- O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. [Uncover articulatory correlates of acoustic duration with analysis-by-synthesis: the case of diphthongs](https://cageissler.github.io/files/PaPE2023_Abstract.pdf). Phonetics and Phonology in Europe (PaPE 2023). Nijmegen, the Netherlands.
 - Geissler, Christopher. 2022. [From gestural landmarks to analysis-by-synthesis: tone-driven timing in Diaspora Tibetan](https://cageissler.github.io/files/PP_2022_paper_1442.pdf). Poster presented at 18th Phonetik und Phonologie im deutschsprachigen Raum, Bielefeld, Germany.
 - Geissler, Christopher. 2021. “[Backward-designing a graduate phonology seminar](https://cageissler.github.io/files/Geissler%20-%20Backward-designing%20a%20graduate%20phonology%20seminar.pdf)” Poster presented at Workshop on Teaching Phonology, Annual Meeting on Phonology 2021.
 - Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2020. [Eccentric C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts.](https://github.com/cageissler/cageissler.github.io/raw/main/files/Geissler_170_Poster.pdf) 12th International Seminar on Speech Production. [video presentation](https://github.com/cageissler/cageissler.github.io/raw/main/files/Geissler_170_Tour.mp4).
