@@ -4,7 +4,7 @@
 # Resources
 
 
-From "[Teaching with AI}(https://cageissler.github.io/files/AI_teaching/AI_writing_slides.pdf)" workshop presented in Anglistik III at HHU, 15 March 2023
+From "[Teaching with AI](https://cageissler.github.io/files/AI_teaching/AI_writing_slides.pdf)" workshop presented in Anglistik III at HHU, 15 March 2023
 - [Text1](https://cageissler.github.io/files/AI_teaching/AI_Text1.pdf)
 - [Text2](https://cageissler.github.io/files/AI_teaching/AI_Text2.pdf)
 - [Text3](https://cageissler.github.io/files/AI_teaching/AI_Text3.pdf)
