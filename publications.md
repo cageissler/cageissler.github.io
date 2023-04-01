@@ -14,6 +14,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Publications
 
+- Weber, Julika & Christopher Geissler. 2023. Accommodation to passive exposure in the L2. Proceedings of the 19h International Congress of Phonetic Sciences. Prague, Czechia.
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender bias and stereotypes in linguistic example sentences](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf). *Language*.
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender stereotypes and inclusion in language teaching](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20stereotypes%20and%20inclusion%20in%20language%20teach.pdf). *Babylonia*.
 - Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2021. [Eccentric C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts.](https://cageissler.github.io/files/Geissler%20et%20al.%20-%202021%20-%20Eccentric%20CV%20timing%20across%20speakers%20of%20diaspora%20Ti.pdf) In Tiede, Mark, Doug Whalen, & Vincent Gracco, Eds. *Proceedings of the 12th International Seminar on Speech Production*. Providence, RI.
