@@ -5,7 +5,7 @@
 
 ### Carleton talk
 
-[Slides](cageissler.github.io/files/Geissler_Carleton_talk.pdf) presented at Carleton College Linguistics, 10 April 2023.
+[Slides](files/Geissler_Carleton_talk.pdf) presented at Carleton College Linguistics, 10 April 2023.
 
 
 ### Teaching with AI
