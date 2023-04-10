@@ -3,6 +3,13 @@
 
 # Resources
 
+### Carleton talk
+
+[Slides](Geissler_Carleton_talk.pdf) presented at Carleton College Linguistics, 10 April 2023.
+
+
+### Teaching with AI
+
 
 From "[Teaching with AI](https://cageissler.github.io/files/AI_teaching/AI_writing_slides.pdf)" workshop presented in Anglistik III at HHU, 15 March 2023
 - [Text1](https://cageissler.github.io/files/AI_teaching/AI_Text1.pdf)
@@ -11,5 +18,8 @@ From "[Teaching with AI](https://cageissler.github.io/files/AI_teaching/AI_writi
 - [Text4](https://cageissler.github.io/files/AI_teaching/AI_Text4.pdf)
 - [Text5](https://cageissler.github.io/files/AI_teaching/AI_Text5.pdf)
 - [Actual attempted submission](https://cageissler.github.io/files/AI_teaching/AI_generated_term_paper.pdf) from a student
+
+
+### VocalTractLab
 
 [A quick intro to VocalTractLab](https://docs.google.com/presentation/d/1RHi7j2BnR8WZiwLjFQVzFwHWCiAXCN8ZpTA8hPnpgLI/edit?usp=sharing) presented at SLaM Lab, 06 March 2023
