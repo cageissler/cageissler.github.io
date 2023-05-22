@@ -3,6 +3,16 @@
 
 # Resources
 
+### How to read
+
+More specifically, how to read the "lab report" style of scientific writing that is popular in linguistics.
+
+- [My quickstart guide](https://cageissler.github.io/files/How_to_read/How_to_read.pdf) to how to read a linguistics article
+- [Annotated short article](https://cageissler.github.io/files/How_to_read/Hashimoto_2019_exemplars_annotated.pdf) illustrating the above procedure
+- [Sample one-page handout](https://cageissler.github.io/files/How_to_read/Handout_Hashimoto_2019.pdf) of the same article (Just one example! There are many ways to make a handout)
+
+This lesson was inspired by [this blog post about reading books](https://blogs.swarthmore.edu/burke/permanent-features-advice-on-academia/how-to-read-in-college/) by Tim Burke, a professor of history at Swarthmore College. I recommend that for advice on reading books in social sciences and humanities. 
+
 ### Carleton talk
 
 [Slides](files/Geissler_Carleton_talk.pdf) presented at Carleton College Linguistics, 10 April 2023.
