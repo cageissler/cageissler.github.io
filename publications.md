@@ -15,7 +15,6 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 ## Publications
 
 - Weber, Julika & Christopher Geissler. 2023. Accommodation to passive exposure in the L2. Proceedings of the 20th International Congress of Phonetic Sciences. Prague, Czechia.
-- O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. [Simulating gestural undershoot in English diphthongs](https://cageissler.github.io/files/Interspeech2023__O_Reilly__Geissler__Tang_.pdf). Interspeech 2023. 20-24 August 2023, Dublin.
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender bias and stereotypes in linguistic example sentences](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf). *Language*.
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender stereotypes and inclusion in language teaching](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20stereotypes%20and%20inclusion%20in%20language%20teach.pdf). *Babylonia*.
 - Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2021. [Eccentric C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts.](https://cageissler.github.io/files/Geissler%20et%20al.%20-%202021%20-%20Eccentric%20CV%20timing%20across%20speakers%20of%20diaspora%20Ti.pdf) In Tiede, Mark, Doug Whalen, & Vincent Gracco, Eds. *Proceedings of the 12th International Seminar on Speech Production*. Providence, RI.
@@ -26,7 +25,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Conference Presentations
 
-- O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. [Uncover articulatory correlates of acoustic duration with analysis-by-synthesis: the case of diphthongs](https://cageissler.github.io/files/PaPE2023_Abstract.pdf). Phonetics and Phonology in Europe (PaPE 2023). Nijmegen, the Netherlands.
+- O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. Uncover articulatory correlates of acoustic duration with analysis-by-synthesis: the case of diphthongs. Phonetics and Phonology in Europe (PaPE 2023). Nijmegen, the Netherlands. [PaPE23_abstract](https://cageissler.github.io/files/PaPE2023_Abstract.pdf),[PaPE23_poster](https://cageissler.github.io/files/PaPE2023_poster.pdf)
 - Geissler, Christopher. 2022. [From gestural landmarks to analysis-by-synthesis: tone-driven timing in Diaspora Tibetan](https://cageissler.github.io/files/PP_2022_paper_1442.pdf). Poster presented at 18th Phonetik und Phonologie im deutschsprachigen Raum, Bielefeld, Germany.
 - Geissler, Christopher. 2021. “[Backward-designing a graduate phonology seminar](https://cageissler.github.io/files/Geissler%20-%20Backward-designing%20a%20graduate%20phonology%20seminar.pdf)” Poster presented at Workshop on Teaching Phonology, Annual Meeting on Phonology 2021.
 - Geissler, Christopher, Jason Shaw, Fang Hu & Mark Tiede. 2020. [Eccentric C-V timing across speakers of diaspora Tibetan with and without lexical tone contrasts.](https://github.com/cageissler/cageissler.github.io/raw/main/files/Geissler_170_Poster.pdf) 12th International Seminar on Speech Production. [video presentation](https://github.com/cageissler/cageissler.github.io/raw/main/files/Geissler_170_Tour.mp4).
