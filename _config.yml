@@ -2,9 +2,6 @@ name: Christopher Geissler
 markdown: kramdown
 theme: jekyll-theme-midnight
 
-github:
-  is_project_page: false
-
 layout: page
 title: "Research"
 permalink: /research/
