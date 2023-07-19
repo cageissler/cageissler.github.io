@@ -42,6 +42,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Other activity
 
+- Rüter, Lara, Julika Weber, Christopher Geissler & Kevin Tang. 2023. [Course content for “Interactive web-based review units for phonetics and phonology.”](https://osf.io/kjnad/) OSF. doi:10.17605/osf.io/kjnad.
 - “[Tone and Articulatory Timing: Evidence from Tibetan](https://cageissler.github.io/files/Geissler_Muenchen_29Jun2022.pdf).” Invited talk at Institute for Phonetics, Ludwig Maximilians University Munich. June 29, 2022
 - LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://cageissler.github.io/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. [YouTube link](https://www.youtube.com/watch?v=LFGeB1r3u9s)
 - Geissler, Christopher. 2021. [Articulatory Phonology: example studies](https://cageissler.github.io/files/Geissler_guest_1-29-2021.pdf). Invited guest lecture in Phonology II course (instructor: Emily Gasser), Swarthmore College. January 29, 2021.

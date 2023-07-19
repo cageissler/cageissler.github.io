@@ -15,8 +15,8 @@ Teaching is just as important to me as research. It is a great joy, and a great 
 
 ## Contact
 
-cgeissler[at]carleton[dot]edu
+cgeissler@carleton.edu
 
-christopher[dot]geissler[at]hhu[dot]de
+christopher.geissler@hhu.de
 
-cageissler42[at]gmail[dot]com
+cageissler42@gmail.com
