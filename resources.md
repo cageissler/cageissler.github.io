@@ -16,7 +16,7 @@ This lesson was inspired by [this blog post about reading books](https://blogs.s
 
 ### E-learning Review Units in Phonetics and Phonology
 
-Funded by an E-Learning Förderfonds grant from HHU, Lara Rüter and Julika Weber developed a series of self-paced review units under the supervision of Kevin Tang and myself. Check them out [on our OSF page] or ORCA.nrw.
+Funded by an E-Learning Foerderfonds grant from HHU, Lara Rueter and Julika Weber developed a series of self-paced review units under the supervision of Kevin Tang and myself. Check them out [on our OSF page](https://osf.io/kjnad/) or ORCA.nrw.
 
 
 ### Teaching with AI
