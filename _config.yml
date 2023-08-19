@@ -19,5 +19,9 @@ title: "Resources"
 permalink: /resources/
 
 layout: page
+title: "etc"
+permalink: /etc/
+
+layout: page
 title: "Christopher Geissler"
 description: Phonetics, Phonology, Teaching
