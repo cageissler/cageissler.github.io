@@ -2,6 +2,11 @@
 
 # Resources
 
+### Carleton Colloquium
+
+[Slides](files/Colloquium_21Sept2023.pdf) presented at Carleton College Department of Linguistics, 21 September 2023.
+
+
 ### How to read
 
 More specifically, how to read the "lab report" style of scientific writing that is popular in linguistics.
@@ -32,8 +37,3 @@ From "[Teaching with AI](https://cageissler.github.io/files/AI_teaching/AI_writi
 ### VocalTractLab
 
 [A quick intro to VocalTractLab](https://docs.google.com/presentation/d/1RHi7j2BnR8WZiwLjFQVzFwHWCiAXCN8ZpTA8hPnpgLI/edit?usp=sharing) presented at the SLaM Lab, 06 March 2023
-
-
-### Carleton talk
-
-[Slides](files/Geissler_Carleton_talk.pdf) presented at Carleton College Linguistics, 10 April 2023.
