@@ -2,6 +2,10 @@
 
 # Resources
 
+### Wikipedia editing 
+
+[Starting out](https://docs.google.com/document/d/1XrSc1_KYNNxhoanjIAoW-DqqMA9XhV7yxKGMfn-SO4g/edit?usp=sharing) editing Wikipedia as a linguist
+
 ### Carleton Colloquium
 
 [Slides](files/Colloquium_21Sept2023.pdf) presented at Carleton College Department of Linguistics, 21 September 2023.
