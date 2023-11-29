@@ -2,6 +2,14 @@
 
 # Resources
 
+
+## Teaching Showcase, 29 November 2023
+
+- [Handout](https://docs.google.com/document/d/1S7g2yIptq9Oi0CgyxQzWV4XYAgFNC21fwMtRvO9K1IM/edit?usp=sharing)
+- [Annotated short article](https://cageissler.github.io/files/How_to_read/Hashimoto_2019_exemplars_annotated.pdf) illustrating the above procedure
+
+***
+
 ### Wikipedia editing 
 
 [Starting out](https://docs.google.com/document/d/1XrSc1_KYNNxhoanjIAoW-DqqMA9XhV7yxKGMfn-SO4g/edit?usp=sharing) editing Wikipedia as a linguist
