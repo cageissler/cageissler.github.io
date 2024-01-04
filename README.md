@@ -3,7 +3,7 @@
 
 # About me
 
-I am a phonetician and phonologist currently serving as a postdoctoral researcher in English Language & Linguistics at Heinrich-Heine University in Düsseldorf, Germany ([English](https://www.anglistik3.hhu.de/en/), [German](https://www.anglistik3.hhu.de/)), as part of the [Speech, Language, and Modeling Lab](https://slam.phil.hhu.de/). In this role, I have been teaching courses in English Linguistics, applying for grants, setting up a new laboratory space, and researching the relationship between probabilistic reduction and articulatory phonetics. In Fall 2023, I will begin working as a Visiting Assistant Professor in [Linguistics at Carleton College](https://www.carleton.edu/linguistics/)!
+I am a phonetician and phonologist currently serving as as a Visiting Assistant Professor in [Linguistics at Carleton College](https://www.carleton.edu/linguistics/), teaching courses in Phonology and general Linguistics. Prior to this, I worked as a postdoctoral researcher in English Language & Linguistics at Heinrich-Heine University in Düsseldorf, Germany ([English](https://www.anglistik3.hhu.de/en/), [German](https://www.anglistik3.hhu.de/)), as part of the [Speech, Language, and Modeling Lab](https://slam.phil.hhu.de/). 
 
 I completed my Ph.D. at Yale University’s [Department of Linguistics](https://ling.yale.edu/) and its Phonetics Laboratory, with a dissertation on the role of tone in articulatory timing in Tibetan as spoken in diaspora. I am interested in the temporal representation of articulatory gestures, and more generally the relationships between tones and segments, language contact, sound change, and anything related to Tibetan.
 
