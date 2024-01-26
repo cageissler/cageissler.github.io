@@ -4,7 +4,7 @@
 
 ### UMN Linguistics Colloquium
 
-[Slides](files/Colloquium_26Jan2024.pdf) presented at Carleton College Department of Linguistics, 21 September 2023.
+[Slides](files/Colloquium_26Jan2024.pdf) presented at the University of Minnesota Institute of Linguistics, 26 January 2024.
 
 ## Teaching Showcase, 29 November 2023
 
