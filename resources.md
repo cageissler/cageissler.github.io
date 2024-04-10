@@ -2,6 +2,10 @@
 
 # Resources
 
+### Swarthmore talk
+
+[Slides](files/Swarthmore_talk_Geissler_10Apr2024.pdf) presented at Swarthmore College Department of Linguistics alumni talk, 10 April 2024
+
 ### UMN Linguistics Colloquium
 
 [Slides](files/Colloquium_26Jan2024.pdf) presented at the University of Minnesota Institute of Linguistics, 26 January 2024.
