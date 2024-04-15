@@ -2,6 +2,11 @@
 
 # Resources
 
+### UCR talk
+
+[Slides](files/UCR_talk_Geissler_15Apr2024_downloaded.pdf) presented at UC Riverside, 15 April 2024
+
+
 ### Swarthmore talk
 
 [Slides](files/Swarthmore_talk_Geissler_10Apr2024.pdf) presented at Swarthmore College Department of Linguistics alumni talk, 10 April 2024
