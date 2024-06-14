@@ -2,6 +2,10 @@
 
 # Resources
 
+### The Grading Conference 2024 talk
+
+[Slides](https://docs.google.com/presentation/d/1W9fVnfu-GXSEoQhkb3mKhCgspGmO3tzeQ_ajQQ3vrrc/edit?usp=sharing) for "Student-directed learning through assignment choice in two linguistics courses" (with Morgan Rood)
+
 ### UCR talk
 
 [Slides](files/UCR_talk_Geissler_15Apr2024.pdf) and [handout](files/UCR_lesson_handout_15Apr2024.pdf) presented at UC Riverside, 15 April 2024
