@@ -40,4 +40,6 @@ While my research to date has focused on linguistics, I am also interested in th
 
 Linguists have developed a range of useful teaching methodologies, largely independent from the broader community of research on teaching in higher education. As a teacher and researcher, I am interested in pedagogy research and developing tools and best practices for teaching linguistics.
 
+One of the most exciting developments in higher-education teaching is the interest in alternative grading, as embodied by the book and website [Grading for Growth](https://gradingforgrowth.com/). I co-facilitated a discussion group on this book at Carleton College's Perlman Center,
+
 While linguistics has come a long way in becoming an increasingly inclusive field, we still have a long way to go. Hadas Kotek, Rikker Dockum, Sarah Babinski, and I tracked gender bias in example sentences in major linguistics journals. [These slides](https://cageissler.github.io/files/LSA2020-gender-journals.pdf) summarize some results, and our paper has been published in [Language](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf) and, in shorter form, in [Babylonia](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20stereotypes%20and%20inclusion%20in%20language%20teach.pdf).

@@ -2,36 +2,21 @@
 
 # Resources
 
-### The Grading Conference 2024 talk
+## Slides from talks
 
-[Slides](https://docs.google.com/presentation/d/1W9fVnfu-GXSEoQhkb3mKhCgspGmO3tzeQ_ajQQ3vrrc/edit?usp=sharing) for "Student-directed learning through assignment choice in two linguistics courses" (with Morgan Rood)
+- [The Grading Conference 2024 talk](https://docs.google.com/presentation/d/1W9fVnfu-GXSEoQhkb3mKhCgspGmO3tzeQ_ajQQ3vrrc/edit?usp=sharing) for "Student-directed learning through assignment choice in two linguistics courses" (with Morgan Rood)
+- [UCR talk](files/UCR_talk_Geissler_15Apr2024.pdf) and [handout](files/UCR_lesson_handout_15Apr2024.pdf), 15 April 2024
+- [Swarthmore Linguistics alumni talk](files/Swarthmore_talk_Geissler_10Apr2024.pdf), 10 April 2024
+- [UMN Linguistics Colloquium](files/Colloquium_26Jan2024.pdf), 26 January 2024
+- Carleton Teaching Showcase [Handout](https://docs.google.com/document/d/1S7g2yIptq9Oi0CgyxQzWV4XYAgFNC21fwMtRvO9K1IM/edit?usp=sharing) and [Annotations](https://cageissler.github.io/files/How_to_read/Hashimoto_2019_exemplars_annotated.pdf)), 29 November 2023
+- [Carleton Linguistics Colloquium](files/Colloquium_21Sept2023.pdf), 21 September 2023.
 
-### UCR talk
 
-[Slides](files/UCR_talk_Geissler_15Apr2024.pdf) and [handout](files/UCR_lesson_handout_15Apr2024.pdf) presented at UC Riverside, 15 April 2024
-
-### Swarthmore alumni talk
-
-[Slides](files/Swarthmore_talk_Geissler_10Apr2024.pdf) presented at Swarthmore College Department of Linguistics alumni talk, 10 April 2024
-
-### UMN Linguistics Colloquium
-
-[Slides](files/Colloquium_26Jan2024.pdf) presented at the University of Minnesota Institute of Linguistics, 26 January 2024.
-
-## Teaching Showcase, 29 November 2023
-
-- [Handout](https://docs.google.com/document/d/1S7g2yIptq9Oi0CgyxQzWV4XYAgFNC21fwMtRvO9K1IM/edit?usp=sharing)
-- [Annotated short article](https://cageissler.github.io/files/How_to_read/Hashimoto_2019_exemplars_annotated.pdf) illustrating the above procedure
-
-***
-
-### Wikipedia editing 
+### Wikipedia editing
 
 [Starting out](https://docs.google.com/document/d/1XrSc1_KYNNxhoanjIAoW-DqqMA9XhV7yxKGMfn-SO4g/edit?usp=sharing) editing Wikipedia as a linguist
 
-### Carleton Colloquium
 
-[Slides](files/Colloquium_21Sept2023.pdf) presented at Carleton College Department of Linguistics, 21 September 2023.
 
 
 ### How to read

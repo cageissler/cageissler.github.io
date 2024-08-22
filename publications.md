@@ -12,8 +12,9 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 - [dissertation download](https://cageissler.github.io/files/Geissler_dissertation_April2021.pdf)
 
 
-## Publications
+## Papers
 
+- Geissler, Christopher & Jyothiraditya Nellakra1. 2024. [Predicting articulatory landmarks with critically-damped oscillators and General Tau Theory](https://cageissler.github.io/files/Geissler_Nellakra_2024_paper.pdf). Proceedings of the 13th International Seminar on Speech Production. Autrans, France.
 - Weber, Julika & Christopher Geissler. 2023. [Accommodation to passive exposure in the L2](https://cageissler.github.io/files/Weber_Geissler_IPChS2023.pdf). In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2713-2717). Guarant International. [[poster](https://cageissler.github.io/files/ICPhS_poster.pdf)]
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender bias and stereotypes in linguistic example sentences](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf). *Language*.
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender stereotypes and inclusion in language teaching](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20stereotypes%20and%20inclusion%20in%20language%20teach.pdf). *Babylonia*.
@@ -21,10 +22,12 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 - Geissler, Christopher. 2019. [Tonal and laryngeal contrasts in Diaspora Tibetan](https://cageissler.github.io/files/Geissler%20-%202019%20-%20Tonal%20and%20laryngeal%20contrasts%20in%20diaspora%20Tibetan.pdf). *Proceedings of the 18th International Congress of Phonetic Sciences*. Melbourne, Australia.
 - Zhang, Muye, Christopher Geissler & Jason Shaw. 2019. [Gestural representations of tone in Mandarin: Evidence from timing alternations](https://cageissler.github.io/files/Zhang%20et%20al.%20-%202019%20-%20Gestural%20representations%20of%20tone%20in%20Mandarin%20Evid.pdf). *Proceedings of the 18th International Congress of Phonetic Sciences*. Melbourne, Australia.
 - DeMille, Mellissa MC, Kevin Tang, Chintan M. Mehta, Christopher Geissler, Jeffrey G. Malins, Natalie R. Powers, Beatrice M. Bowen, Andrew K. Adams, Dongnhu T. Truong & Jan C. Frijters. 2018. [Worldwide distribution of the DCDC2 READ1 regulatory element and its relationship with phoneme variation across languages](https://cageissler.github.io/files/DeMille%20et%20al.%20-%202018%20-%20Worldwide%20distribution%20of%20the%20DCDC2%20READ1%20regulato.pdf). *Proceedings of the National Academy of Sciences* 115(19). 4951–4956.
-- Geissler, Christopher. 2018. [Phonological Koinéization in Kathmandu Tibetan](https://cageissler.github.io//files/Geissler%20-%202018%20-%20Phonological%20Koineization%20in%20Kathmandu%20Tibetan.pdf). *Proceedings of the Annual Meetings on Phonology*, vol. 5.
+- Geissler, Christopher. 2018. [Phonological Koinéization in Kathmandu Tibetan](https://cageissler.github.io/files/Geissler%20-%202018%20-%20Phonological%20Koineization%20in%20Kathmandu%20Tibetan.pdf). *Proceedings of the Annual Meetings on Phonology*, vol. 5.
 
 ## Conference Presentations
 
+- Geissler, Christopher and Morgan Rood. 2024. [Student-directed learning through assignment choice in two linguistics courses](https://cageissler.github.io/files/Geissler_Rood_presentation.pdf). [The Grading Conference 2024](https://thegradingconference.com/2024-session-descriptions/#disciplinary-applications-part-4). Online.
+- Posson, Emily and Christopher Geissler. 2024. The effects of three-way consonant length distinctions in Northern Saami. The Journal of the Acoustical Society of America. Ottawa, ON. [ASA2024_abstract](https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A338/3301423/The-effects-of-three-way-consonant-distinction-in), [ASA2024_poster](https://cageissler.github.io/files/Posson_Geissler_ASA2024_poster)
 - O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. Uncover articulatory correlates of acoustic duration with analysis-by-synthesis: the case of diphthongs. Phonetics and Phonology in Europe (PaPE 2023). Nijmegen, the Netherlands. [PaPE23_abstract](https://cageissler.github.io/files/PaPE2023_Abstract.pdf),[PaPE23_poster](https://cageissler.github.io/files/PaPE2023_poster.pdf)
 - Geissler, Christopher. 2022. [From gestural landmarks to analysis-by-synthesis: tone-driven timing in Diaspora Tibetan](https://cageissler.github.io/files/PP_2022_paper_1442.pdf). Poster presented at 18th Phonetik und Phonologie im deutschsprachigen Raum, Bielefeld, Germany.
 - Geissler, Christopher. 2021. “[Backward-designing a graduate phonology seminar](https://cageissler.github.io/files/Geissler%20-%20Backward-designing%20a%20graduate%20phonology%20seminar.pdf)” Poster presented at Workshop on Teaching Phonology, Annual Meeting on Phonology 2021.
@@ -42,6 +45,8 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Other activity
 
+- Geissler, Christopher, Sarah Babinski & Jason Shaw. 2024. [Diaspora Tibetan Speech](https://catalog.ldc.upenn.edu/LDC2024S06). Corpus hosted at Linguistic Data Consortium.
+-  Geissler, Christopher. 2024. [Review of Albert, Aviad. 2023. A model of sonority based on pitch intelligibility](https://cageissler.github.io/files/Review_Albert_2023.pdf). Language Science Press. LinguistList.
 - Rüter, Lara, Julika Weber, Christopher Geissler & Kevin Tang. 2023. [Course content for “Interactive web-based review units for phonetics and phonology.”](https://osf.io/kjnad/) OSF. doi:10.17605/osf.io/kjnad.
 - “[Tone and Articulatory Timing: Evidence from Tibetan](https://cageissler.github.io/files/Geissler_Muenchen_29Jun2022.pdf).” Invited talk at Institute for Phonetics, Ludwig Maximilians University Munich. June 29, 2022
 - LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://cageissler.github.io/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. [YouTube link](https://www.youtube.com/watch?v=LFGeB1r3u9s)
