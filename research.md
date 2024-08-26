@@ -3,10 +3,11 @@
 
 # Research
 
-ORCID: [https://orcid.org/0000-0003-4910-3062](https://orcid.org/0000-0003-4910-3062)
-Web of Science: [Profile](https://www.webofscience.com/wos/author/record/HOF-8520-2023)
-ResearchGate: [Profile](https://www.researchgate.net/profile/Christopher-Geissler)
-OSF: [https://osf.io/fdjwx/](https://osf.io/fdjwx/)
+- ORCID: [https://orcid.org/0000-0003-4910-3062](https://orcid.org/0000-0003-4910-3062)
+- Web of Science: [Profile](https://www.webofscience.com/wos/author/record/HOF-8520-2023)
+- ResearchGate: [Profile](https://www.researchgate.net/profile/Christopher-Geissler)
+- OSF: [https://osf.io/fdjwx/](https://osf.io/fdjwx/)
+(The above may or may not be up-to-date)
 
 ## Representation at the Phonetics-Phonology Interface
 
