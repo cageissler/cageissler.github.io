@@ -14,7 +14,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Papers
 
-- Geissler, Christopher & Jyothiraditya Nellakra1. 2024. [Predicting articulatory landmarks with critically-damped oscillators and General Tau Theory](https://cageissler.github.io/files/Geissler_Nellakra_2024_paper.pdf). Proceedings of the 13th International Seminar on Speech Production. Autrans, France.
+- Geissler, Christopher & Jyothiraditya Nellakra. 2024. [Predicting articulatory landmarks with critically-damped oscillators and General Tau Theory](https://cageissler.github.io/files/Geissler_Nellakra_2024_paper.pdf). Proceedings of the 13th International Seminar on Speech Production. Autrans, France.
 - Weber, Julika & Christopher Geissler. 2023. [Accommodation to passive exposure in the L2](https://cageissler.github.io/files/Weber_Geissler_IPChS2023.pdf). In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2713-2717). Guarant International. [[poster](https://cageissler.github.io/files/ICPhS_poster.pdf)]
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender bias and stereotypes in linguistic example sentences](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf). *Language*.
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender stereotypes and inclusion in language teaching](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20stereotypes%20and%20inclusion%20in%20language%20teach.pdf). *Babylonia*.
@@ -26,7 +26,8 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Conference Presentations
 
-- Geissler, Christopher, Anya Stytenkova, Piper Brown, and Arthur Viegas Eguia. 2024. Acoustic evidence for consonant cluster organization across contexts. The Journal of the Acoustical Society of America. Online. [abstract][slides](/files/Geissler_etal_ASA_2024.pdf),[OSF][video]
+- Geissler, Christopher. 2025(accepted). Why Tibetan consonants have five genders. 2025 Annual Meeting of the North American Association for the History of the Language Sciences. Philadelphia. [[abstract](https://cageissler.github.io/files/NAAHoLS_2025_abstract.pdf)]
+- Geissler, Christopher, Anya Stytenkova, Piper Brown, and Arthur Viegas Eguia. 2024(accepted). Acoustic evidence for consonant cluster organization across contexts. The Journal of the Acoustical Society of America. Online. [abstract][[slides](/files/Geissler_etal_ASA_2024.pdf)],[[OSF](https://osf.io/nptmb/?view_only=fc021d500713425faa42b3d43d9ea63a)][[video](https://cageissler.github.io/files/Geissler_3aSCa3.mp4)]
 - Geissler, Christopher and Morgan Rood. 2024. [Student-directed learning through assignment choice in two linguistics courses](https://cageissler.github.io/files/Geissler_Rood_presentation.pdf). [The Grading Conference 2024](https://thegradingconference.com/2024-session-descriptions/#disciplinary-applications-part-4). Online.
 - Posson, Emily and Christopher Geissler. 2024. The effects of three-way consonant length distinctions in Northern Saami. The Journal of the Acoustical Society of America. Ottawa, ON. [ASA2024_abstract](https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A338/3301423/The-effects-of-three-way-consonant-distinction-in), [ASA2024_poster](https://cageissler.github.io/files/Posson_Geissler_ASA2024_poster)
 - O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. Uncover articulatory correlates of acoustic duration with analysis-by-synthesis: the case of diphthongs. Phonetics and Phonology in Europe (PaPE 2023). Nijmegen, the Netherlands. [PaPE23_abstract](https://cageissler.github.io/files/PaPE2023_Abstract.pdf),[PaPE23_poster](https://cageissler.github.io/files/PaPE2023_poster.pdf)
@@ -47,7 +48,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 ## Other activity
 
 - Geissler, Christopher, Sarah Babinski & Jason Shaw. 2024. [Diaspora Tibetan Speech](https://catalog.ldc.upenn.edu/LDC2024S06). Corpus hosted at Linguistic Data Consortium.
--  Geissler, Christopher. 2024. [Review of Albert, Aviad. 2023. A model of sonority based on pitch intelligibility](https://cageissler.github.io/files/Review_Albert_2023.pdf). Language Science Press. LinguistList.
+- Geissler, Christopher. 2024. [Review of Albert, Aviad. 2023. A model of sonority based on pitch intelligibility](https://cageissler.github.io/files/Review_Albert_2023.pdf). Language Science Press. LinguistList.
 - Rüter, Lara, Julika Weber, Christopher Geissler & Kevin Tang. 2023. [Course content for “Interactive web-based review units for phonetics and phonology.”](https://osf.io/kjnad/) OSF. doi:10.17605/osf.io/kjnad.
 - “[Tone and Articulatory Timing: Evidence from Tibetan](https://cageissler.github.io/files/Geissler_Muenchen_29Jun2022.pdf).” Invited talk at Institute for Phonetics, Ludwig Maximilians University Munich. June 29, 2022
 - LSA “Meet the Authors” Webinar: “[Gender Bias & Stereotypes in Linguistics Research and Teaching](https://cageissler.github.io/files/Meet-the-Authors-slides.pdf)". January 28, 2022. Paola Cépeda, Hadas Kotek, Katharina Pabst, Kristen Syrett, Hadas Kotek, Rikker Dockum, Sarah Babinski, Christopher Geissler. [YouTube link](https://www.youtube.com/watch?v=LFGeB1r3u9s)
