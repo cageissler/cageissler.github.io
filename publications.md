@@ -26,6 +26,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Conference Presentations
 
+- Geissler, Christopher, Anya Stytenkova, Piper Brown, and Arthur Viegas Eguia. 2024. Acoustic evidence for consonant cluster organization across contexts. The Journal of the Acoustical Society of America. Online. [abstract][slides](/files/Geissler_etal_ASA_2024.pdf),[OSF][video]
 - Geissler, Christopher and Morgan Rood. 2024. [Student-directed learning through assignment choice in two linguistics courses](https://cageissler.github.io/files/Geissler_Rood_presentation.pdf). [The Grading Conference 2024](https://thegradingconference.com/2024-session-descriptions/#disciplinary-applications-part-4). Online.
 - Posson, Emily and Christopher Geissler. 2024. The effects of three-way consonant length distinctions in Northern Saami. The Journal of the Acoustical Society of America. Ottawa, ON. [ASA2024_abstract](https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A338/3301423/The-effects-of-three-way-consonant-distinction-in), [ASA2024_poster](https://cageissler.github.io/files/Posson_Geissler_ASA2024_poster)
 - O'Reilly, Eoin, Christopher Geissler & Kevin Tang. 2023. Uncover articulatory correlates of acoustic duration with analysis-by-synthesis: the case of diphthongs. Phonetics and Phonology in Europe (PaPE 2023). Nijmegen, the Netherlands. [PaPE23_abstract](https://cageissler.github.io/files/PaPE2023_Abstract.pdf),[PaPE23_poster](https://cageissler.github.io/files/PaPE2023_poster.pdf)
