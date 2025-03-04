@@ -2,8 +2,9 @@
 
 # Resources
 
-## Slides from talks
+## Materials from talks
 
+- [Yale Documentation/Historical group](https://docs.google.com/document/d/1r0r4bx6FvjJSlRs4Q3zKAICPRlCh1ldyFi_SwbCNBCQ/edit?usp=sharing), 07 March 2025
 - [The Grading Conference 2024 talk](https://docs.google.com/presentation/d/1W9fVnfu-GXSEoQhkb3mKhCgspGmO3tzeQ_ajQQ3vrrc/edit?usp=sharing) for "Student-directed learning through assignment choice in two linguistics courses" (with Morgan Rood)
 - [UCR talk](files/UCR_talk_Geissler_15Apr2024.pdf) and [handout](files/UCR_lesson_handout_15Apr2024.pdf), 15 April 2024
 - [Swarthmore Linguistics alumni talk](files/Swarthmore_talk_Geissler_10Apr2024.pdf), 10 April 2024
