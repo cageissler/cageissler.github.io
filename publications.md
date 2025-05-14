@@ -27,8 +27,8 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Conference Presentations
 
-- Geissler, Christopher. 2025. Stable timing between articulatory gestures and syllable pulses. 5th Biennial Boston Speech Motor Control Symposium (BSMCS). [[poster](https://cageissler.github.io/files/Geissler_Posson_mfm2025_poster.pdf)].
-- Geissler, Christopher and Emily Posson. 2025. An extrasyllabic account of North Sámi triple gemination. 31st Manchester Phonology Meeting. [[abstract](https://cageissler.github.io/files/mfm2025_Geissler_Posson.pdf)]
+- Geissler, Christopher. 2025. Stable timing between articulatory gestures and syllable pulses. 5th Biennial Boston Speech Motor Control Symposium (BSMCS).
+- Geissler, Christopher and Emily Posson. 2025. An extrasyllabic account of North Sámi triple gemination. 31st Manchester Phonology Meeting. [[abstract](https://cageissler.github.io/files/mfm2025_Geissler_Posson.pdf)], [[poster](https://cageissler.github.io/files/Geissler_Posson_mfm2025_poster.pdf)].
 - Geissler, Christopher. 2025. Why Tibetan consonants have five genders. 2025 Annual Meeting of the North American Association for the History of the Language Sciences. Philadelphia. [[abstract](https://cageissler.github.io/files/NAAHoLS_2025_abstract.pdf)], [[NAAHoLS handout](https://docs.google.com/document/d/128j2XvuKGKpwMKdz4RZl_alCwZaxobGAbCO_31lVLsI/edit?usp=sharing)]
 - Geissler, Christopher, Anya Stytenkova, Piper Brown, and Arthur Viegas Eguia. 2024. Acoustic evidence for consonant cluster organization across contexts. The Journal of the Acoustical Society of America. Online. [abstract][[slides](/files/Geissler_etal_ASA_2024.pdf)],[[OSF](https://osf.io/nptmb/?view_only=fc021d500713425faa42b3d43d9ea63a)][[video](https://cageissler.github.io/files/Geissler_3aSCa3.mp4)]
 - Geissler, Christopher and Morgan Rood. 2024. [Student-directed learning through assignment choice in two linguistics courses](https://cageissler.github.io/files/Geissler_Rood_presentation.pdf). [The Grading Conference 2024](https://thegradingconference.com/2024-session-descriptions/#disciplinary-applications-part-4). Online.
