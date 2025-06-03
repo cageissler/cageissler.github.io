@@ -14,7 +14,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Papers
 
-- Geissler, Christopher. (submitted). Articulatory control by gestural coupling and syllable pulses. 
+- Geissler, Christopher. (submitted). Articulatory control by gestural coupling and syllable pulses.
 - Geissler, Christopher & Jyothiraditya Nellakra. 2024. [Predicting articulatory landmarks with critically-damped oscillators and General Tau Theory](https://cageissler.github.io/files/Geissler_Nellakra_2024_paper.pdf). Proceedings of the 13th International Seminar on Speech Production. Autrans, France.
 - Weber, Julika & Christopher Geissler. 2023. [Accommodation to passive exposure in the L2](https://cageissler.github.io/files/Weber_Geissler_IPChS2023.pdf). In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2713-2717). Guarant International. [[poster](https://cageissler.github.io/files/ICPhS_poster.pdf)]
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender bias and stereotypes in linguistic example sentences](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf). *Language*.
@@ -27,7 +27,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Conference Presentations
 
-- Geissler, Christopher. 2025. Stable timing between articulatory gestures and syllable pulses. 5th Biennial Boston Speech Motor Control Symposium (BSMCS).
+- Geissler, Christopher. 2025. Stable timing between articulatory gestures and syllable pulses. 5th Biennial Boston Speech Motor Control Symposium (BSMCS). [[poster](https://cageissler.github.io/files/BSMCS2025_poster.pdf)]
 - Geissler, Christopher and Emily Posson. 2025. An extrasyllabic account of North Sámi triple gemination. 31st Manchester Phonology Meeting. [[abstract](https://cageissler.github.io/files/mfm2025_Geissler_Posson.pdf)], [[poster](https://cageissler.github.io/files/Geissler_Posson_mfm2025_poster.pdf)].
 - Geissler, Christopher. 2025. Why Tibetan consonants have five genders. 2025 Annual Meeting of the North American Association for the History of the Language Sciences. Philadelphia. [[abstract](https://cageissler.github.io/files/NAAHoLS_2025_abstract.pdf)], [[NAAHoLS handout](https://docs.google.com/document/d/128j2XvuKGKpwMKdz4RZl_alCwZaxobGAbCO_31lVLsI/edit?usp=sharing)]
 - Geissler, Christopher, Anya Stytenkova, Piper Brown, and Arthur Viegas Eguia. 2024. Acoustic evidence for consonant cluster organization across contexts. The Journal of the Acoustical Society of America. Online. [abstract][[slides](/files/Geissler_etal_ASA_2024.pdf)],[[OSF](https://osf.io/nptmb/?view_only=fc021d500713425faa42b3d43d9ea63a)][[video](https://cageissler.github.io/files/Geissler_3aSCa3.mp4)]
