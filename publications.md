@@ -14,7 +14,7 @@ I defended my dissertation, *Temporal articulatory stability, phonological varia
 
 ## Papers
 
-- Geissler, Christopher. (submitted). Articulatory control by gestural coupling and syllable pulses.
+- Geissler, Christopher. 2025. [Articulatory Control by Gestural Coupling and Syllable Pulses](https://doi.org/10.3390/languages10090219). *Languages* 10(9): Special Issue: Research on Articulation and Prosodic Structure.
 - Geissler, Christopher & Jyothiraditya Nellakra. 2024. [Predicting articulatory landmarks with critically-damped oscillators and General Tau Theory](https://cageissler.github.io/files/Geissler_Nellakra_2024_paper.pdf). Proceedings of the 13th International Seminar on Speech Production. Autrans, France.
 - Weber, Julika & Christopher Geissler. 2023. [Accommodation to passive exposure in the L2](https://cageissler.github.io/files/Weber_Geissler_IPChS2023.pdf). In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 2713-2717). Guarant International. [[poster](https://cageissler.github.io/files/ICPhS_poster.pdf)]
 - Kotek, Hadas, Rikker Dockum, Sarah Babinski & Christopher Geissler. 2021. [Gender bias and stereotypes in linguistic example sentences](https://cageissler.github.io/files/Kotek%20et%20al.%20-%202021%20-%20Gender%20bias%20and%20stereotypes%20in%20linguistic%20example%20.pdf). *Language*.
