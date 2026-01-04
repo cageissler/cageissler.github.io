@@ -22,12 +22,22 @@ Several of my courses have been centered around a collaborative research project
 
 ## Courses taught
 
+### At Boston College:
+
+- General Linguistics. Fall 2024, Fall 2025, Spring 2026
+- Phonetics and Phonology. Spring 2025, Spring 2026
+- Historical Linguistics. Spring 2025
+- Writing Systems of the World. Fall 2024, Spring 2026
+- The Linguistic Structure of Tibetan. Spring 2025
+- Linguistics and Artificial Intelligence. Fall 2025
+
+
 ### At Carleton College:
 
 - Phonetics and Phonology. Fall 2023
-- Introduction to Linguistics. Winter 2024, Spring 2024 (anticipated)
-- Laboratory Phonology. Winter 2024 (anticipated)
-- Language in the United States. Spring 2024 (anticipated)
+- Introduction to Linguistics. Winter 2024, Spring 2024
+- Laboratory Phonology. Winter 2024
+- Language in the United States. Spring 2024
 
 
 ### At Heinrich Heine University Duesseldorf:
